@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\bin\Debug\net6.0\zada4a03.exe
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\bin\Debug\net6.0\zada4a03.deps.json
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\bin\Debug\net6.0\zada4a03.runtimeconfig.json
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\bin\Debug\net6.0\zada4a03.dll
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\bin\Debug\net6.0\zada4a03.pdb
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.AssemblyInfo.cs
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.dll
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\refint\zada4a03.dll
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.pdb
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\zada4a03.genruntimeconfig.cache
+C:\Users\79996\Desktop\HomeWork03.09\zada4a03\obj\Debug\net6.0\ref\zada4a03.dll
